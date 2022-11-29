@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+.container{
+    width: 700px;
+    height: 600px;    
+}
+
+.btn{
+    padding: 10px;
+    width: 90px;
+    height: 90px;
+    border-radius: 0 ;
+    border: 1px solid rgb(255, 255, 255,0.1);
+    
+}
+
+
+
+
